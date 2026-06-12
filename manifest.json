@@ -1,7 +1,7 @@
 {
 	"id": "multiview-mindmap",
 	"name": "multiview-mindmap",
-	"version": "1.9.3",
+	"version": "1.9.4",
 	"minAppVersion": "0.9.12",
 	"description": "Interactive mindmap editing with Markdown synchronization, multiple structural views, AI assistance, and slideshow export.",
 	"author": "fcj01",
